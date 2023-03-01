@@ -45,7 +45,7 @@ a:hover{
     
 }
 
-img: {
-    width:
-    height:
+img:hover {
+    width: 70px;
+    height: auto;
 }
